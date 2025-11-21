@@ -114,6 +114,12 @@ I'm a passionate **Computer Science, AI/ML, and Business** enthusiast from Leand
 
 </div>
 
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/AkhilKonduru1/AkhilKonduru1/output/github-snake-dark.svg)
+
+</div>
+
 ---
 
 ## 🎯 Leadership & Activities
