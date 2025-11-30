@@ -16,7 +16,8 @@
 - 🔬 **AI Research** at MetricVoice - Developing cutting-edge machine learning solutions
 - 📱 **Hourly App** - Award-winning mobile application (Best Innovation Award)
 - 🎯 **VenturEd Fellowship** at Jammy - Entrepreneurship and business development
-- 🗣️ **National Speech & Debate** - Competing at the national level
+- 🗣️ **National Speech & Debate**
+- An app made to increase awareness about the bills and legal issues around them
 
 ---
 
