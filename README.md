@@ -1,8 +1,8 @@
 <div align="center">
   
-# 👋 Hi, I'm Akhil Konduru
+# Hi, I'm Akhil Konduru
 
-### 🎓 Student at Rouse High School | 💻 Computer Science Enthusiast | 🤖 AI/ML Researcher | 💼 Business Leader
+### Student at Rouse High School | Computer Science Enthusiast | AI/ML Researcher | Business Leader
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akhil-konduru-402650230)
 [![Profile Views](https://komarev.com/ghpvc/?username=AkhilKonduru1&color=blueviolet&style=for-the-badge)](https://github.com/AkhilKonduru1)
@@ -11,59 +11,59 @@
 
 ---
 
-## 🚀 Currently Working On
+## Currently Working On
 
-- 🔬 **AI Research** at MetricVoice - Developing cutting-edge machine learning solutions
-- 📱 **Hourly App** - Award-winning mobile application (Best Innovation Award)
-- 🎯 **VenturEd Fellowship** at Jammy - Entrepreneurship and business development
-- 🗣️ **National Speech & Debate**
+- **AI Research** at MetricVoice - Developing cutting-edge machine learning solutions
+- **Hourly App** - Award-winning mobile application (Best Innovation Award)
+- **VenturEd Fellowship** at Jammy - Entrepreneurship and business development
+- **National Speech & Debate**
 - An app made to increase awareness about the bills and legal issues around them
 
 ---
 
-## 💫 About Me
+## About Me
 
 I'm a passionate **Computer Science, AI/ML, and Business** enthusiast from Leander, Texas, dedicated to leveraging technology to create meaningful impact. My journey combines technical innovation with leadership and community service.
 
-### 🏆 Key Achievements
+### Key Achievements
 
-- 🥇 **DECA ICDC Qualifier** - Competed at the International Career Development Conference
-- 🤖 **AI Researcher** at MetricVoice - Working on advanced machine learning projects
-- 💼 **VenturEd Fellow** at Jammy - Selected for prestigious entrepreneurship program
-- 🎤 **National Speech & Debate** Competitor
-- 👔 **Student Council Vice President** - Leading student body initiatives
-- 🏅 **DECA & Model UN** Active participant
-- 🔑 **Key Club Member** - Dedicated to community service
-- ⚽ **Soccer Referee** - USSF certified official
-- 📱 **App Developer** - Creator of "Hourly" (Best Innovation Award winner)
-- 📊 **SAT Score: 1580** - Top 1% nationally
-- 🧠 **Mind4Youth Volunteer** - Tutoring and mentoring youth
-- ⛺ **CAMP Volunteer** - Community service and outreach
-
----
-
-## 🎓 Education
-
-**Rouse High School** 🏫  
-📍 Leander, Texas  
-🗓️ Class of 2028  
-📚 Focus: Computer Science, AI/ML, Business
+- **DECA ICDC Qualifier** - Competed at the International Career Development Conference
+- **AI Researcher** at MetricVoice - Working on advanced machine learning projects
+- **VenturEd Fellow** at Jammy - Selected for prestigious entrepreneurship program
+- **National Speech & Debate** Competitor
+- **Student Council Vice President** - Leading student body initiatives
+- **DECA & Model UN** Active participant
+- **Key Club Member** - Dedicated to community service
+- **Soccer Referee** - USSF certified official
+- **App Developer** - Creator of "Hourly" (Best Innovation Award winner)
+- **SAT Score: 1580** - Top 1% nationally
+- **Mind4Youth Volunteer** - Tutoring and mentoring youth
+- **CAMP Volunteer** - Community service and outreach
 
 ---
 
-## 🏅 Awards & Certifications
+## Education
 
-- 🥇 **DECA ICDC Qualifier** - International Career Development Conference
-- 🎖️ **AP Scholar** - Advanced Placement excellence
-- 🏆 **Best Innovation Award** - "Hourly" mobile application
-- 🤖 **Google ML/AI Course Certified** - Machine Learning specialization
-- ☁️ **Google Workspace (G Suite) Certified** - Professional productivity tools
-- 🧠 **Microsoft AI Certification** - Artificial Intelligence fundamentals
-- 🎤 **National Speech & Debate** Recognition
+**Rouse High School**  
+Leander, Texas  
+Class of 2028  
+Focus: Computer Science, AI/ML, Business
 
 ---
 
-## 💻 Technical Skills
+## Awards & Certifications
+
+- **DECA ICDC Qualifier** - International Career Development Conference
+- **AP Scholar** - Advanced Placement excellence
+- **Best Innovation Award** - "Hourly" mobile application
+- **Google ML/AI Course Certified** - Machine Learning specialization
+- **Google Workspace (G Suite) Certified** - Professional productivity tools
+- **Microsoft AI Certification** - Artificial Intelligence fundamentals
+- **National Speech & Debate** Recognition
+
+---
+
+## Technical Skills
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -89,7 +89,7 @@ I'm a passionate **Computer Science, AI/ML, and Business** enthusiast from Leand
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
   
@@ -123,27 +123,27 @@ I'm a passionate **Computer Science, AI/ML, and Business** enthusiast from Leand
 
 ---
 
-## 🎯 Leadership & Activities
+## Leadership & Activities
 
-🎭 **DECA** - International Career Development Conference Qualifier  
-🌍 **Model United Nations (MUN)** - Delegate and participant  
-👔 **Student Council Vice President** - Leading school initiatives  
-🔑 **Key Club** - Community service and volunteer work  
-⚽ **USSF Soccer Referee** - Certified sports official  
-🎤 **National Speech & Debate** - Competitive public speaking
-
----
-
-## 🌟 Community Involvement
-
-💡 **Mind4Youth** - Volunteer tutor and mentor  
-⛺ **CAMP Volunteer** - Community outreach and service  
-🤝 **VenturEd Fellowship** - Entrepreneurship mentorship  
-📱 **App Development** - Creating solutions for real-world problems
+**DECA** - International Career Development Conference Qualifier  
+**Model United Nations (MUN)** - Delegate and participant  
+**Student Council Vice President** - Leading school initiatives  
+**Key Club** - Community service and volunteer work  
+**USSF Soccer Referee** - Certified sports official  
+**National Speech & Debate** - Competitive public speaking
 
 ---
 
-## 💼 Connect With Me
+## Community Involvement
+
+**Mind4Youth** - Volunteer tutor and mentor  
+**CAMP Volunteer** - Community outreach and service  
+**VenturEd Fellowship** - Entrepreneurship mentorship  
+**App Development** - Creating solutions for real-world problems
+
+---
+
+## Connect With Me
 
 <div align="center">
 
@@ -154,7 +154,7 @@ I'm a passionate **Computer Science, AI/ML, and Business** enthusiast from Leand
 
 ---
 
-## 💭 Inspirational Quote
+## Inspirational Quote
 
 <div align="center">
 
@@ -166,10 +166,10 @@ I'm a passionate **Computer Science, AI/ML, and Business** enthusiast from Leand
 
 <div align="center">
   
-### ⚡ "Innovation distinguishes between a leader and a follower" - Steve Jobs
+### "Innovation distinguishes between a leader and a follower" - Steve Jobs
 
-💡 *Always learning, always building, always improving*
+*Always learning, always building, always improving*
 
-⭐️ From [AkhilKonduru1](https://github.com/AkhilKonduru1)
+From [AkhilKonduru1](https://github.com/AkhilKonduru1)
 
 </div>
